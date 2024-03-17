@@ -1,0 +1,1 @@
+# Nguyên mẫu, thừa kế
